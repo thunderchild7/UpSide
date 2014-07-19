@@ -1,0 +1,196 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "oliverbowe",
+    "longName": "Up Side",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/big-bariol-flip_icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/num_2.png",
+                "name": "IMAGE_NUM_BLACK_UP_2",
+                "type": "png"
+            },
+            {
+                "file": "images/num_black_down_2.png",
+                "name": "IMAGE_NUM_BLACK_DOWN_2",
+                "type": "png"
+            },
+            {
+                "file": "images/num_black_left_2.png",
+                "name": "IMAGE_NUM_BLACK_LEFT_2",
+                "type": "png"
+            },
+            {
+                "file": "images/num_black_right_2.png",
+                "name": "IMAGE_NUM_BLACK_RIGHT_2",
+                "type": "png"
+            },
+            {
+                "file": "images/num_0.png",
+                "name": "IMAGE_NUM_BLACK_UP_0",
+                "type": "png"
+            },
+            {
+                "file": "images/num_black_right_0.png",
+                "name": "IMAGE_NUM_BLACK_LEFT_0",
+                "type": "png"
+            },
+            {
+                "file": "images/num_1.png",
+                "name": "IMAGE_NUM_BLACK_UP_1",
+                "type": "png"
+            },
+            {
+                "file": "images/num_black_down_1.png",
+                "name": "IMAGE_NUM_BLACK_DOWN_1",
+                "type": "png"
+            },
+            {
+                "file": "images/num_black_left_1.png",
+                "name": "IMAGE_NUM_BLACK_LEFT_1",
+                "type": "png"
+            },
+            {
+                "file": "images/num_black_right_1.png",
+                "name": "IMAGE_NUM_BLACK_RIGHT_1",
+                "type": "png"
+            },
+            {
+                "file": "images/num_3.png",
+                "name": "IMAGE_NUM_BLACK_UP_3",
+                "type": "png"
+            },
+            {
+                "file": "images/num_black_down_3.png",
+                "name": "IMAGE_NUM_BLACK_DOWN_3",
+                "type": "png"
+            },
+            {
+                "file": "images/num_black_left_3.png",
+                "name": "IMAGE_NUM_BLACK_LEFT_3",
+                "type": "png"
+            },
+            {
+                "file": "images/num_black_right_3.png",
+                "name": "IMAGE_NUM_BLACK_RIGHT_3",
+                "type": "png"
+            },
+            {
+                "file": "images/num_5.png",
+                "name": "IMAGE_NUM_BLACK_UP_5",
+                "type": "png"
+            },
+            {
+                "file": "images/num_black_down_5.png",
+                "name": "IMAGE_NUM_BLACK_DOWN_5",
+                "type": "png"
+            },
+            {
+                "file": "images/num_black_left_5.png",
+                "name": "IMAGE_NUM_BLACK_LEFT_5",
+                "type": "png"
+            },
+            {
+                "file": "images/num_black_right_5.png",
+                "name": "IMAGE_NUM_BLACK_RIGHT_5",
+                "type": "png"
+            },
+            {
+                "file": "images/num_6.png",
+                "name": "IMAGE_NUM_BLACK_UP_6",
+                "type": "png"
+            },
+            {
+                "file": "images/num_9.png",
+                "name": "IMAGE_NUM_BLACK_DOWN_6",
+                "type": "png"
+            },
+            {
+                "file": "images/num_black_right_9.png",
+                "name": "IMAGE_NUM_BLACK_LEFT_6",
+                "type": "png"
+            },
+            {
+                "file": "images/num_black_left_9.png",
+                "name": "IMAGE_NUM_BLACK_RIGHT_6",
+                "type": "png"
+            },
+            {
+                "file": "images/num_7.png",
+                "name": "IMAGE_NUM_BLACK_UP_7",
+                "type": "png"
+            },
+            {
+                "file": "images/num_black_down_7.png",
+                "name": "IMAGE_NUM_BLACK_DOWN_7",
+                "type": "png"
+            },
+            {
+                "file": "images/num_black_left_7.png",
+                "name": "IMAGE_NUM_BLACK_LEFT_7",
+                "type": "png"
+            },
+            {
+                "file": "images/num_black_right_7.png",
+                "name": "IMAGE_NUM_BLACK_RIGHT_7",
+                "type": "png"
+            },
+            {
+                "file": "images/num_8.png",
+                "name": "IMAGE_NUM_BLACK_UP_8",
+                "type": "png"
+            },
+            {
+                "file": "images/num_black_down_8.png",
+                "name": "IMAGE_NUM_BLACK_DOWN_8",
+                "type": "png"
+            },
+            {
+                "file": "images/num_black_left_8.png",
+                "name": "IMAGE_NUM_BLACK_LEFT_8",
+                "type": "png"
+            },
+            {
+                "file": "images/num_black_right_8.png",
+                "name": "IMAGE_NUM_BLACK_RIGHT_8",
+                "type": "png"
+            },
+            {
+                "file": "images/num_4.png",
+                "name": "IMAGE_NUM_BLACK_UP_4",
+                "type": "png"
+            },
+            {
+                "file": "images/num_black_down_4.png",
+                "name": "IMAGE_NUM_BLACK_DOWN_4",
+                "type": "png"
+            },
+            {
+                "file": "images/num_black_left_4.png",
+                "name": "IMAGE_NUM_BLACK_LEFT_4",
+                "type": "png"
+            },
+            {
+                "file": "images/num_black_right_4.png",
+                "name": "IMAGE_NUM_BLACK_RIGHT_4",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Up Side",
+    "uuid": "33b10d7e-e98d-48cb-a0fb-4081c045c46b",
+    "versionCode": 1,
+    "versionLabel": "1.0.5",
+    "watchapp": {
+        "watchface": true
+    }
+}
